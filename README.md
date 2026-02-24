@@ -30,7 +30,3 @@ This is the ride sharing appllication project.
 
 
 
-
-## 5. Ride History Page
-View previous rides
-Fare details 
